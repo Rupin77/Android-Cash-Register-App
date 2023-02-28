@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buy_btn" type="id" />
+    <item name="quantity_picker" type="id" />
+    <item name="product_list" type="id" />
+    <item name="manager_btn" type="id" />
+    <item name="selected_quantity" type="id" />
+    <item name="total_amount" type="id" />
+    <item name="product_type" type="id" />
+    <item name="guideline_right" type="id" />
+    <item name="guideline_left" type="id" />
+</resources>
