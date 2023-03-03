@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assignment2</string>
+    <string name="app_name">Cash Register App</string>
     <string name="product_type">Product Type</string>
     <string name="manager_btn">Manager</string>
     <string name="total">Total</string>
